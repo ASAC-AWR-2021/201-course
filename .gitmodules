@@ -1,0 +1,39 @@
+[submodule "201Lab_02"]
+	path = 201Lab_02
+	url = https://github.com/AbeerAl-Rafati/201Lab_02.git
+[submodule "201_lab_04"]
+	path = 201_lab_04
+	url = https://github.com/AbeerAl-Rafati/201_lab_04.git
+[submodule "amman201"]
+	path = amman201
+	url = https://github.com/AbeerAl-Rafati/amman201.git
+[submodule "amman-201d19-lab05"]
+	path = amman-201d19-lab05
+	url = https://github.com/AbeerAl-Rafati/amman-201d19-lab05.git
+[submodule "amman-201d19"]
+	path = amman-201d19
+	url = https://github.com/AbeerAl-Rafati/amman-201d19.git
+[submodule "201_Lab_03"]
+	path = 201_Lab_03
+	url = https://github.com/AbeerAl-Rafati/201_Lab_03.git
+[submodule "ChocolatePizza"]
+	path = ChocolatePizza
+	url = https://github.com/AbeerAl-Rafati/ChocolatePizza.git
+[submodule "amman-201d19-lab14"]
+	path = amman-201d19-lab14
+	url = https://github.com/AbeerAl-Rafati/amman-201d19-lab14.git
+[submodule "201lab_01"]
+	path = 201lab_01
+	url = https://github.com/AbeerAl-Rafati/201lab_01.git
+[submodule "buss-mall"]
+	path = buss-mall
+	url = https://github.com/AbeerAl-Rafati/buss-mall.git
+[submodule "Cookie-stand"]
+	path = Cookie-stand
+	url = https://github.com/AbeerAl-Rafati/Cookie-stand.git
+[submodule "wireframe-excercise"]
+	path = wireframe-excercise
+	url = https://github.com/AbeerAl-Rafati/wireframe-excercise.git
+[submodule "HR-system"]
+	path = HR-system
+	url = https://github.com/AbeerAl-Rafati/HR-system.git
