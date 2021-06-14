@@ -37,3 +37,6 @@
 [submodule "HR-system"]
 	path = HR-system
 	url = https://github.com/AbeerAl-Rafati/HR-system.git
+[submodule "examDemos/301-entrance-exam"]
+	path = examDemos/301-entrance-exam
+	url = https://github.com/mreshtaiwi/301-entrance-exam.git
